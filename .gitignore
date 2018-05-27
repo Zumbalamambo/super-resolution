@@ -1,0 +1,6 @@
+*.mat
+*.avi
+*.pickle
+
+__pycache__
+.ipynb_checkpoints
